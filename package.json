@@ -10,12 +10,10 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/rspack-builder": "npm:@nuxt/rspack-builder-nightly@3x",
-    "nuxt": "npm:nuxt-nightly@3x",
+    "@nuxt/rspack-builder": "^3.12.2",
+    "nuxt": "^3.14.0",
     "vue": "latest",
     "vue-router": "latest"
   },
-  "resolutions": {
-    "nitropack": "latest"
-  }
+  "packageManager": "pnpm@9.12.3"
 }
