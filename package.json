@@ -10,8 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/rspack-builder": "^3.12.2",
-    "nuxt": "^3.14.0",
+    "@nuxt/rspack-builder": "^3.14.159",
+    "nuxt": "^3.14.159",
     "vue": "latest",
     "vue-router": "latest"
   },
